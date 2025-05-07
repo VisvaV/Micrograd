@@ -63,7 +63,7 @@ The computation graph of the final loss is visualized using `graph.py`, which us
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/micrograd-mlp.git
+git clone https://github.com/VisvaV/micrograd-mlp.git
 cd micrograd-mlp
 pip install -r requirements.txt
 ```
